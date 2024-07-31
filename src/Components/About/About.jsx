@@ -1,5 +1,5 @@
 import React from "react";
-import AboutImg from "../../assets/7358653-removebg-preview.png";
+import AboutImg from "../../assets/avatar.jpeg";
 import { IoArrowForward } from "react-icons/io5";
 const About = () => {
   return (
@@ -21,11 +21,7 @@ const About = () => {
                   Frontend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis quos consectetur ea harum! Libero aut qui
-                  similique recusandae provident consectetur sed itaque alias
-                  sint ipsa?
+                  I am a frontend developer with a passion for creating.
                 </p>
               </span>
             </div>
@@ -37,8 +33,7 @@ const About = () => {
                   Database developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores
+                  I work with mongoDB and Mysql to ensure data integrity and performance.
                 </p>
               </span>
             </div>
@@ -50,9 +45,7 @@ const About = () => {
                   Backend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis
+                 I work with Node.js and Express to build robust APIs.
                 </p>
               </span>
             </div>
